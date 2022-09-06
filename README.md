@@ -24,7 +24,8 @@ Our model achieves the following performance on land cover classification:
 
 ## Reference
 
-If you found this code useful, please cite the following paper:
+If you found this code useful, please cite the following paper:\
+(This paper is currently under review. The full publication information will be added.)
 
 ```
 @article{DCSA-Net,
