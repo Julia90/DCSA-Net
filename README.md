@@ -8,7 +8,7 @@ The current deep convolutional neural networks for Very-High-Resolution (VHR) re
 
 ## DCSA-Net architecture
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/Julia90/DCSA-Net/blob/main/architecture.PNG?raw=true)
 
 
 ## Results
